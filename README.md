@@ -1,3 +1,5 @@
+![Green Hand-drawn Welcome Google Classroom Header](https://github.com/ccharan/tmp/blob/main/Green%20Hand-drawn%20Welcome%20Google%20Classroom%20Header.png)
+
 ### Hi there 👋
 
 My name is Charan C. I am passionate self-taught python developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with python. I take great care in the code quality of the things I build.
