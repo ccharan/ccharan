@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Charan C and I am a Software Engineer.
-I am passionate self-taught python developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with python. I take great care in the code quality of the things I build.
+My name is Charan C. I am passionate self-taught python developer and a software engineer from India. My passion for software lies with dreaming up ideas and making them come true with python. I take great care in the code quality of the things I build.
 
 <br />
 <a href="https://www.linkedin.com/in/charan-c/">
