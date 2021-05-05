@@ -7,7 +7,7 @@ My name is Charan C and I am a Software Engineer.
   <img align="left" alt="Charan C | LinkedIn" width="24px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
 <a href="https://jovian.ai/charanc1996">
-  <img align="left" alt="Charan C | Jovian.ai" width="24px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
+  <img align="left" alt="Charan C | Jovian.ai" width="24px" src="https://avatars.githubusercontent.com/u/46194244?s=200&v=4" />
 </a>
 
 
