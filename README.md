@@ -1,6 +1,7 @@
-![Green Hand-drawn Welcome Google Classroom Header]
-(https://www.canva.com/design/DAEdoMbXwd8/qBHcxfTBAXruYlX0OjrUYg/view?utm_content=DAEdoMbXwd8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+Reference-style: 
+![alt text][logo]
 
+[logo]:https://www.canva.com/design/DAEdoMbXwd8/qBHcxfTBAXruYlX0OjrUYg/view?utm_content=DAEdoMbXwd8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Logo Title Text 2"
 
 ### Hi there 👋
 
