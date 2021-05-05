@@ -29,6 +29,9 @@ My name is Charan C and I am a Software Engineer.
 
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png"></code>
+
+
 
 
 
