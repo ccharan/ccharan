@@ -23,8 +23,6 @@ My name is Charan C. I am passionate self-taught python developer and a software
 🛠     I’m looking to collaborate open source projects.
 
 <br/>
-😄    Pronouns: he/him
-<br/>
 
 <br />
 <br />
